@@ -3,6 +3,7 @@
     - 🔭 I’m currently working on **none** - 🌱 I’m currently learning **csharp, html, css** - 👯 I’m looking to
     collaborate on **nobody** - 🤝 I’m looking for help with **nobody** - 💬 Ask me about **my life** - 📫 How to reach
     me **alemanalvaro35@gmail.com** <h3 align="left">Connect with me:</h3>
+    <g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji><a href="mailto:alemanalvaro35@gmail.com">alemanalvaro35@gmail.com</a>
     <p align="left"> </p>
     <h3 align="left">Languages and Tools:</h3>
     <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
